@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mahak31
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m Mahak
+- 👀 I’m a Data Science enthusiast
 - 🌱 I’m currently learning Machine Learning algorithms
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 You can reach me at mahakadvance@gmail.com 
